@@ -2,18 +2,18 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/101-ibrahim-test-course-site-2-summer-2023/great_wave_off_kanagawa2.jpg
-file_size: 35425
-file_type: image/jpeg
+file: /media/gdrive_uploads/ibrahim-test-course-site-2/1KMJWIYqp8gNrKKmKp9BlSVZvhX4v5S6X/sample-video.mp4
+file_size: 750369
+file_type: video/mp4
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Image
-title: Great_Wave_off_Kanagawa2.jpg
-uid: beb927ca-df11-4432-be19-f094b8c1aa78
+resourcetype: Video
+title: sample video.mp4
+uid: 3002d066-de8f-4992-b4e7-768716e215c1
 video_files:
   archive_url: ''
   video_captions_file: ''
